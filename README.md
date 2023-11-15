@@ -1,2 +1,2 @@
-# aula-31-10 blooming k-store
-vendas de produtos asiaticos 
+# blooming k-store
+vendas de produtos asiáticos 
